@@ -46,7 +46,7 @@ Loticoin aims to revolutionize digital transactions in the crypto-gambling space
 
 ## Getting Started
 
-To get started with Loticoin, visit our [official website](http://www.loticoin.xyz) and check out our [whitepaper]([https://github.com/loticoin/whitepaper](https://github.com/loticoin/Loticoin/blob/main/Lotiocoin%20Whitepaper)).
+To get started with Loticoin, visit our [official website](http://www.loticoin.xyz) and check out our [whitepaper](https://github.com/loticoin/Loticoin/blob/main/Lotiocoin%20Whitepaper).
 
 ## Contributing
 
